@@ -44,6 +44,6 @@ README.md          # Project information
 **Pranjal Kumar**  
 GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123)
 
----
+📱 All done on phone using Cxxdroid app. No laptop used. 
 
 Feel free to fork, improve, or suggest new questions!
